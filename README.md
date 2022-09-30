@@ -20,8 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintu-singh&show_icons=true&locale=en&layout=compact" alt="chintu-singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintu-singh&show_icons=true&locale=en" alt="chintu-singh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintu-singh&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515&locale=en" alt="chintu-singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintu-singh&" alt="chintu-singh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintu-singh&theme=dark" alt="chintu-singh" /></p>
 
 
