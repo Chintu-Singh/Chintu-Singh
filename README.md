@@ -1,7 +1,7 @@
 ![Intro](https://github.com/Chintu-Singh/Chintu-Singh/blob/main/assets/Video.gif)
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Chintu Singh</h1>
-<h3 align="center">I am a third year student in Computer Science and Engineering (CSE) who loves to code</h3>
+<h3 align="center">I am a fourth year student in Computer Science and Engineering (CSE) who loves to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintu-singh&label=Profile%20views&color=0e75b6&style=flat" alt="chintu-singh" /> </p>
 
